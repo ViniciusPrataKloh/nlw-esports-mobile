@@ -1,5 +1,5 @@
 <h1 align="center">
-  NLW eSports 💻
+  NLW eSports 📱
 </h1>
 
 <br>
@@ -9,7 +9,7 @@
   <img alt="Visualização do App" src="cover2.png" width="375px" height="812px">
 </p>
 
-## 💻 Projeto
+## 📱 Projeto
 
 O projeto está sendo desenvolvido em React_Native durante a Next Level Week #9 eSports da Rocketseat.
 

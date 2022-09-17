@@ -1,7 +1,7 @@
 <h1 align="center">
   NLW eSports 💻
 </h1>
-landingPageMobile.png
+
 <br>
 
 <p align="center">

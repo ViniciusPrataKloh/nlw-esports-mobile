@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center">
+<p align="center" gap="5px">
   <img alt="Visualização do App" src="cover.png" width="375px" height="812px">
   <img alt="Visualização do App" src="cover.png" width="375px" height="812px">
 </p>

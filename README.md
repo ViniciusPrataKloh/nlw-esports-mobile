@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="Visualização do App" src="cove1.png" styles="width:375px; height:812px; border-radius:8px">
+  <img alt="Visualização do App" src="cove1.png" width="375px" height="812px">
   <img alt="Visualização do App" src="cove2.png" width="375px" height="812px">
 </p>
 

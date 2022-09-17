@@ -5,13 +5,13 @@
 <br>
 
 <p align="center">
-  <img alt="Visualização do App" src="cove1.png" width="375px" height="812px">
-  <img alt="Visualização do App" src="cove2.png" width="375px" height="812px">
+  <img alt="Visualização do App" src="cover1.png" width="375px" height="812px">
+  <img alt="Visualização do App" src="cover2.png" width="375px" height="812px">
 </p>
 
 ## 💻 Projeto
 
-O projeto foi desenvolvido em React_Native durante a Next Level Week #9 eSports da Rocketseat.
+O projeto está sendo desenvolvido em React_Native durante a Next Level Week #9 eSports da Rocketseat.
 
 ## ✨ Tecnologias
 

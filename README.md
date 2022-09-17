@@ -5,7 +5,7 @@ landingPageMobile.png
 <br>
 
 <p align="center">
-  <img alt="Visualização do App" src="cover.png" width="100%" height="60px">
+  <img alt="Visualização do App" src="cover.png" width="375px" height="812px">
 </p>
 
 ## 💻 Projeto

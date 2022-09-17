@@ -4,8 +4,8 @@
 
 <br>
 
-<p align="center" gap="5px">
-  <img alt="Visualização do App" src="cover.png" width="375px" height="812px">
+<p align="center">
+  <img radius="8px" alt="Visualização do App" src="cover.png" width="375px" height="812px">
   <img alt="Visualização do App" src="cover.png" width="375px" height="812px">
 </p>
 

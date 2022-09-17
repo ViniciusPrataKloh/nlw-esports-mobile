@@ -5,8 +5,8 @@
 <br>
 
 <p align="center">
-  <img radius="8px" alt="Visualização do App" src="cover.png" width="375px" height="812px">
-  <img alt="Visualização do App" src="cover.png" width="375px" height="812px">
+  <img alt="Visualização do App" src="cove1.png" styles="width:375px; height:812px; border-radius:8px">
+  <img alt="Visualização do App" src="cove2.png" width="375px" height="812px">
 </p>
 
 ## 💻 Projeto
